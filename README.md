@@ -47,8 +47,6 @@ https://www.apachefriends.org/zh_tw/download.html
 
 
 
-https://github.com/a19860101/PHP-0-20200524/tree/master/basic
-
 
 
 
